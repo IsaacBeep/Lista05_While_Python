@@ -11,5 +11,6 @@ while True:
     if M_convide == 's':
         contador += 1 
     elif M_convide == 'n':
-        print('O total de {} foram convidadas para a festa'.format(contador))
+        print('O total de {} pessoas foram convidadas para a festa'.format(contador))
+        print('IsaacSouza')
         break
