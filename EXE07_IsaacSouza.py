@@ -25,6 +25,7 @@ while True:
 
     elif num == 0: #Finalizar
         print(lista)
+        print('IsaacSouza')
         break
 
 
